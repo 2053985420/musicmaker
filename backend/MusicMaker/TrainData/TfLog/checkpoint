@@ -1,0 +1,3 @@
+model_checkpoint_path: "sess"
+all_model_checkpoint_paths: "sess\\model.ckpt"
+all_model_checkpoint_paths: "sess"
